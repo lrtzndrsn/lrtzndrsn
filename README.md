@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**lrtzndrsn/lrtzndrsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a 5th-semester student at the IT University of Copenhagen, currently pursuing my Bachelor's degree in Software Development. I also work as a Student Software Developer at MSF Copenhagen (Médecins Sans Frontières), where I focus on Salesforce / Apex programming and contribute to various technical projects.
 
-Here are some ideas to get you started:
+Currently working on:
+* DSP algorithms in my spare time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Areas of interest:
+    * DSP and Music/Audio Software
+    * Machine Learning
+    * Algorithms
+    * Software Engineering
+    * Theoretical Computer Science
+
